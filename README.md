@@ -1,2 +1,2 @@
-# -Primeiro-Reposit-rio-
+# Primeiro Repositrio
 Primeiro desafio de projeto em Git/GitHub
